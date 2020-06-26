@@ -6,7 +6,7 @@ class ProductList extends Component {
         return (
             <div className="container">
                 <div>
-                    <h1>Find Your Cras</h1>
+                    <h1>Find Your Cars</h1>
                 </div>
                 <div className="row">
                     <ProductConsumer>
